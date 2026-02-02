@@ -13,7 +13,6 @@ The goal of this GitHub is to document my cybersecurity lab projects and learnin
 I use it to track how I set up environments, generate telemetry, test detections, and analyze results — mainly so I can improve, but also so others can see how I approach problems and think through security scenarios.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
