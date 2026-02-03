@@ -11,7 +11,7 @@ Most of what’s here comes from practical labs. Windows, Linux, logging, detect
 
 The goal of this GitHub is to document my cybersecurity lab projects and learning process in a clear, practical way.
 
-I use it to track how I set up environments, generate telemetry, test detections, and analyze results — mainly so I can improve, but also so others can see how I approach problems and think through security scenarios.
+I use it to track how I set up environments, generate telemetry, test detections, and analyze results, mainly so I can improve, but also so others can see how I approach problems and think through security scenarios.
 
 ## Skills
 
