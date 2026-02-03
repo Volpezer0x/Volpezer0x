@@ -18,7 +18,7 @@ I use it to track how I set up environments, generate telemetry, test detections
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Volpezer0x/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Volpezer0x/Detection-Lab">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -48,5 +48,5 @@ I use it to track how I set up environments, generate telemetry, test detections
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/Volpezer0x/Detection-Lab">Detection Lab</a>
+- SOC Automation Project ( Coming Soon )
