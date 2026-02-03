@@ -1,7 +1,8 @@
 ## Hello, I'm Mike
 <a href="https://www.linkedin.com/in/mak-4555273a9"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m transitioning into cybersecurity with a strong interest in how systems behave under pressure and sometimes...how to break them lol😜
+I’m transitioning into cybersecurity with a strong interest in how systems behave under pressure and sometimes...how to break them lol😜.
+
 This GitHub is where I document hands-on lab work, experiments, and things I break (and fix) while learning security operations, networking, and defensive tooling.
 
 Most of what’s here comes from practical labs. Windows, Linux, logging, detection, attack simulation, etc with notes on what worked, what didn’t, and what I learned along the way.
