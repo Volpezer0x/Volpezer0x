@@ -27,6 +27,7 @@ I use it to track how I set up environments, generate telemetry, test detections
 ## Tools
 <div>
     <img src="https://img.shields.io/badge/-Nmap%207.98-2F2F2F?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-2B579A?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-0F4C81?&style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
