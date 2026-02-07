@@ -31,8 +31,8 @@ This helps me improve — and gives others insight into **how I approach problem
 
 | Skill | Associated Project |
 |------|--------------------|
-| SIEM Implementation & Log Analysis | <a href="https://github.com/xxxxxx0x/Detection-Lab">Detection Lab</a> |
-| Network Traffic Monitoring & Attack Detection | <a href="https://github.com/xxxxxx0x/Detection-Lab">Detection Lab</a> |
+| SIEM Implementation & Log Analysis | <a href="https://github.com/Volpezer0x/Detection-Lab)">Detection Lab</a> |
+| Network Traffic Monitoring & Attack Detection | <a href="https://github.com/Volpezer0x/Detection-Lab">Detection Lab</a> |
 | Security Automation (SOAR) | SOC Automation Lab |
 | Incident Response & Case Handling | SOC Automation Lab |
 | Case Management (TheHive) | SOC Automation Lab |
