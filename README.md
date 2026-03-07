@@ -62,6 +62,10 @@ This helps me improve — and gives others insight into **how I approach problem
 </div>
 
 ---
+### Case Manager
+<div>
+<img src="https://img.shields.io/badge/-TheHive-F3C522?&style=for-the-badge&logoColor=black" />
+</div>
 
 ## 📜 Certifications
 
