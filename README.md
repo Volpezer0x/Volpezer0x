@@ -62,7 +62,7 @@ This helps me improve — and gives others insight into **how I approach problem
 ### 🖥️ Infrastructure
 <div>
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Linux-FFFFFF?&style=for-the-badge&logo=Linux&logoColor=black" />
 <img src="https://img.shields.io/badge/-Windows%2010-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows%2011-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
