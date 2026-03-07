@@ -58,7 +58,7 @@ This helps me improve — and gives others insight into **how I approach problem
 ### SIEM & Detection
 <div>
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=data:image/png;base64,YOUR_BASE64_LOGO&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wazuh%20XDR-1A1A2E?&style=for-the-badge&logoColor=white" />
 </div>
 
 ---
