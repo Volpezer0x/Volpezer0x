@@ -42,32 +42,38 @@ This helps me improve — and gives others insight into **how I approach problem
 
 ## 🧰 Tools & Technologies
 
-### Endpoint & Attack Simulation
+### 🛡️ Security Tools
 <div>
-  <img src="https://img.shields.io/badge/-Nmap%207.98-2F2F2F?&style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Sysmon-2B579A?&style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-0F4C81?&style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wazuh%20XDR-1A1A2E?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-TheHive-F3C522?&style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-4B0082?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Network Analysis
+### 💻 Languages & Frameworks
+<div>
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Flask-000000?&style=for-the-badge&logo=Flask&logoColor=white" />
+</div>
+
+### 🖥️ Infrastructure
+<div>
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Windows%2010-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%2011-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+</div>
+
+### 🌐 Network Analysis
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
 </div>
 
-### SIEM & Detection
-<div>
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wazuh%20XDR-1A1A2E?&style=for-the-badge&logoColor=white" />
-</div>
-
----
-### Case Manager
-<div>
-<img src="https://img.shields.io/badge/-TheHive-F3C522?&style=for-the-badge&logoColor=black" />
-</div>
-
-## 📜 Certifications
+### 📜 Certifications
 
 <div>
   <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
