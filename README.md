@@ -30,13 +30,15 @@ This helps me improve — and gives others insight into **how I approach problem
 ## 🛠️ Skills & Projects
 
 | Skill | Associated Project |
-|------|--------------------|
-| SIEM Implementation & Log Analysis | <a href="https://github.com/Volpezer0x/Detection-Lab">Detection Lab</a> |
-| Network Traffic Monitoring & Attack Detection | <a href="https://github.com/Volpezer0x/Detection-Lab">Detection Lab</a> |
-| Security Automation (SOAR) | SOC Automation Lab |
-| Incident Response & Case Handling | SOC Automation Lab |
-| Case Management (TheHive) | SOC Automation Lab |
-| Scripting & Automation for Detection | SOC Automation Lab |
+| --- | --- |
+| SIEM Implementation & Log Analysis | [Detection Lab](https://github.com/Volpezer0x/Detection-Lab) |
+| Network Traffic Monitoring & Attack Detection | [Detection Lab](https://github.com/Volpezer0x/Detection-Lab) |
+| Security Orchestration & Automation (SOAR) | [SOAR Automation Lab](https://github.com/Volpezer0x/SOAR-Automation-Lab) |
+| Threat Intelligence Enrichment (VirusTotal API) | [SOAR Automation Lab](https://github.com/Volpezer0x/SOAR-Automation-Lab) |
+| Incident Response & Case Management (TheHive) | [SOAR Automation Lab](https://github.com/Volpezer0x/SOAR-Automation-Lab) |
+| Python Scripting & REST API Integration | [SOAR Automation Lab](https://github.com/Volpezer0x/SOAR-Automation-Lab) |
+| SOC Alert Engineering & Email Automation | [SOAR Automation Lab](https://github.com/Volpezer0x/SOAR-Automation-Lab) |
+| Endpoint Detection with Sysmon & Wazuh | [SOAR Automation Lab](https://github.com/Volpezer0x/SOAR-Automation-Lab) |
 
 ---
 
@@ -85,5 +87,5 @@ This helps me improve — and gives others insight into **how I approach problem
 
 ## 📂 Projects
 
-- 🔍 <a href="https://github.com/Volpezer0x/Detection-Lab">Detection Lab</a>  
-- 🤖 SOC Automation Project *(Coming Soon)*  
+* 🔍 [Detection Lab](https://github.com/Volpezer0x/Detection-Lab) — SIEM setup, log analysis & network traffic monitoring
+* 🤖 [SOAR Automation Lab](https://github.com/Volpezer0x/SOAR-Automation-Lab) — End-to-end automated alert pipeline: Wazuh → Flask → VirusTotal → TheHive → Email  
